@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+zipfile
+os
+seaborn
+scikit-learn
+nltk
+re
+string
