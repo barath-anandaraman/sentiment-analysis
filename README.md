@@ -33,5 +33,5 @@ pip install -r requirements.txt
 jupyter lab
 # or
 jupyter notebook
-#From the Jupyter interface, you can then open and run the .ipynb files (e.g., elsa_analysis.ipynb)
+#From the Jupyter interface, you can then open and run the sentiment-analysis.ipynb files 
 # to see the sentiment analysis in action.
